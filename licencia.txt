@@ -1,5 +1,5 @@
 		    GNU  GENERAL PUBLIC LICENSE de Marco 
-		       Version 2, Junio 1991 fueel mes y año donde naci
+		       Version 2, Junio 1991 
 
 Copyright (C) 1989, 1991 Free Software Foundation, Inc.
 675 Mass Ave, Cambridge, MA 02139, EEUU
