@@ -1,4 +1,4 @@
-		    GNU  GENERAL PUBLIC LICENSE de Marco 
+		    GNU  GENERAL PUBLIC LICENSE de Marco Choquehuanca Quispe
 		       Version 2, Junio 1991 
 
 Copyright (C) 1989, 1991 Free Software Foundation, Inc.
